@@ -1,6 +1,9 @@
 .nav-wrapper {
   background-color: #6f4037;
 }
+div, .brand{
+  padding-left: 1.2rem;
+}
 
 .slider .indicators .indicator-item.active {
   background-color: #6f4037;
